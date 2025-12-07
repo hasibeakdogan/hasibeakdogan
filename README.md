@@ -6,30 +6,30 @@ Ben Yönetim Bilişim Sistemleri - MIS mezunu, kendini geliştirmeyi seven ve AI
 
 🎯 Hedeflerim
 
-✨ Yapay zekanın temellerini sağlam şekilde öğrenmek
-✨ Veriyi işleme ve model mantığını anlamlandırmak
-✨ Projeler yapıp kendimi geliştirmek
-✨ Otomasyon alanında yetkinlik kazanmak
-✨ Öğrendiklerimi sade bir şekilde buraya aktarmak
+✨ Yapay zekanın temellerini sağlam şekilde öğrenmek  
+✨ Veriyi işleme ve model mantığını anlamlandırmak  
+✨ Projeler yapıp kendimi geliştirmek  
+✨ Otomasyon alanında yetkinlik kazanmak  
+✨ Öğrendiklerimi sade bir şekilde buraya aktarmak  
 
-🛠️ Kullandığım Teknolojiler & Araçlar
+🛠️ Kullandığım Teknolojiler & Araçlar  
 
-Programlama Dilleri
-🌱 Python (temel – veri analizi öğreniyorum)
-🌱 Java (Android & test otomasyonu için)
+Programlama Dilleri  
+🌱 Python (temel – veri analizi öğreniyorum)  
+🌱 Java (Android & test otomasyonu için)  
 
-Geliştirme Araçları
-🌱 Android Studio
-🌱 IntelliJ IDEA
-🌱 VS Code
+Geliştirme Araçları  
+🌱 Android Studio  
+🌱 IntelliJ IDEA  
+🌱 VS Code  
 
-Veri & Yapay Zeka
-🌱 NumPy, Pandas (temel)
-🌱 Google Colab
-🌱 Jupyter Notebook
+Veri & Yapay Zeka  
+🌱 NumPy, Pandas (temel)  
+🌱 Google Colab  
+🌱 Jupyter Notebook  
 
-Sürüm Kontrolü
-🌱 Git & GitHub
+Sürüm Kontrolü  
+🌱 Git & GitHub  
 <!--
 **hasibeakdogan/hasibeakdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
