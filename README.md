@@ -1,16 +1,16 @@
-## 👋 Merhaba ben, Hasibe Akdoğan 
+👋 Merhaba ben, Hasibe Akdoğan
+
 Github profilime hoş geldiniz!
 
-Ben Yönetim Bilişim Sistemleri - MIS mezunu kendini geliştirmeyi seven, AI & Data Science alanında uzmanlaşmak isteyen biriyim. 
+Ben Yönetim Bilişim Sistemleri - MIS mezunu, kendini geliştirmeyi seven ve AI & Data Science alanında uzmanlaşmak isteyen biriyim.
 
+🎯 Hedeflerim
 
-## 🎯 Hedeflerim
-
- ✨Yapay zekanın temellerini sağlam bir şekilde öğrenmek
- ✨Veriyi işleme ve model mantığını anlamlandırmak
- ✨Projeler yapıp kendimi geliştirmek
- ✨Otomasyon alanında yetkinlik kazanmak
- ✨Öğrendiklerimi sade bir şekilde buraya aktarmak
+✨ Yapay zekanın temellerini sağlam şekilde öğrenmek
+✨ Veriyi işleme ve model mantığını anlamlandırmak
+✨ Projeler yapıp kendimi geliştirmek
+✨ Otomasyon alanında yetkinlik kazanmak
+✨ Öğrendiklerimi sade bir şekilde buraya aktarmak
 
 🛠️ Kullandığım Teknolojiler & Araçlar
 
@@ -28,7 +28,7 @@ Veri & Yapay Zeka
 🌱 Google Colab
 🌱 Jupyter Notebook
 
-Versiyon Kontrol
+Sürüm Kontrolü
 🌱 Git & GitHub
 <!--
 **hasibeakdogan/hasibeakdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
